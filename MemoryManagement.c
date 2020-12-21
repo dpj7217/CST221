@@ -1,3 +1,14 @@
+/*   Programmer: David Pratt Jr.
+ *
+ *   For this situation I made 
+ *   a function for each modification that I wanted to make
+ *   to the number that the user provided. I also provided
+ *   a recursive solution to running the program so that it
+ *   can run as long as the user wants. And a way for the 
+ *   user to exit the program
+ *
+ */
+
 #include <stdlib.h>
 #include <stdio.h>
 
